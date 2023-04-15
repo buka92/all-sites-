@@ -1,0 +1,157 @@
+
+
+.center h1 {
+	font-family: Neon Magic;
+	font-smoothing: auto;
+	transform: skew(-15deg);
+	text-align: center;
+	font-size: 200px;
+	text-transform: uppercase;
+	color: purple;
+  margin-bottom: 0px;
+}
+
+.head {
+	background-size: cover;
+}
+
+.stream .row{
+	  width: 1850px;
+	height: 500px;
+	margin-top: -50px;
+	margin-left: -170px;
+	padding-right: 200px;
+	padding-top: 150px;
+  margin-bottom: 50px;
+}
+
+.chess .row {
+	  width: 1720px;
+		padding-right: 500px;
+     padding-top: 100px;
+}
+
+.drustvene-mreze .row {
+    width: 1920px;
+     padding-right: 500px;
+     padding-top: 100px;
+}
+
+.space .row {
+	width: 1920px;
+     padding-right: 500px;
+     padding-top: 100px;
+}
+
+.sites-for-watching .row {
+	width: 1920px;
+     padding-right: 500px;
+     padding-top: 100px;
+}
+
+
+.filmovi .row {
+	width: 1920px;
+   padding-right: 500px;
+     padding-top: 100px;
+}
+
+.games .row {
+	width: 1920px;
+  padding-right: 500px;
+     padding-top: 100px;
+}
+
+.stream .twitch{
+	padding-right: 100px;
+}
+
+.stream .twitch:hover {
+	transition: 0.3s;
+	margin-top: -30px;
+	padding-right: 100px;
+}
+
+.stream .trovo:hover {
+	transition: 0.3s;
+	margin-top: -30px;
+}
+
+.stream .chat:hover {
+	transition: 0.3s;
+	margin-top: -30px;
+	padding-right: 100px;
+}
+
+.chess .chess:hover {
+	transition: 0.3s;
+	margin-top: -30px;
+	padding-right: 100px;
+}
+
+
+.chess .puzzle:hover {
+	transition: 0.3s;
+	margin-top: -30px;
+	padding-right: 100px;
+}
+
+.chess .calculator{
+	padding-left: 130px;
+}
+
+.chess .calculator:hover {
+	transition: 0.3s;
+	margin-top: -30px;
+	padding-right: 100px;
+}
+
+.sites-for-watching .tiktok:hover {
+	transition: 0.3s;
+	margin-top: -30px;
+}
+
+.drustvene-mreze .instagram:hover {
+	transition: 0.3s;
+	margin-top: -30px;
+}
+
+.drustvene-mreze .facebook:hover {
+	transition: 0.3s;
+	margin-top: -30px;
+}
+
+.drustvene-mreze .google:hover {
+	transition: 0.3s;
+	margin-top: -30px;
+
+}
+.sites-for-watching .youtube:hover {
+	transition: 0.3s;
+	margin-top: -30px;
+}
+
+.sites-for-watching .olx:hover {
+	transition: 0.3s;
+	margin-top: -30px;
+}
+
+.filmovi .soap:hover {
+	transition: 0.3s;
+	margin-top: -30px;
+}
+
+.filmovi .hdsaprevodom:hover {
+	transition: 0.3s;
+	margin-top: -30px;
+}
+
+.filmovi .movie:hover {
+	transition: 0.3s;
+	margin-top: -30px;
+}
+
+.games .repack {
+	padding-left: 50px;
+}
+
